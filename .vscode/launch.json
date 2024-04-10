@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "промежуточная аттестация_4627735f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "projectName": "промежуточная аттестация_4627735f",
+            "classPaths": [
+                "C:\\Users\\ЖиНа\\AppData\\Roaming\\Code\\User\\workspaceStorage\\959bf52b9d6e99272e3418828e740d2f\\redhat.java\\jdt_ws\\промежуточная аттестация_4627735f\\bin"
+            ]
+        }
+    ]
+}
